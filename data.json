@@ -1,0 +1,22 @@
+[
+   
+    {
+        "client":{
+            "name":"Mews",
+            "postal-address":{
+                        "street1":"78 Franklin Dr",
+                        "suburb":"Mudgeeraba",
+                        "state": "QLD",
+                        "post-code": "4213"},
+            "email":"mews@mudgeeraba.com.au",
+            "contact-phone":"0401091707"},
+
+        "spots":[
+            {      "id":"1" ,
+            "geo":{"lat":-28.08152, "long":153.356659},
+            "last-checked": "2021-10-18T1000:23:59",
+            "img-path": "/imgs"}]
+    }
+
+
+]
